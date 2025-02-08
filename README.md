@@ -1,6 +1,8 @@
 # tic-tac-toe
 A simple tic tac toe game.
 
-## Run project
+## Download dependecies
 > npm install
+
+## Run project
 > npm run dev
